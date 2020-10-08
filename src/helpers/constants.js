@@ -1,6 +1,6 @@
 const data = {
     "client_id": "BRphak8h3YqAhP67Jxs0XSnmzrqfYlQn",
-    "client_secret":"MFITDWbKbGcWIse1wP3h247LLIGwSl032o4ebP18k-x2AeCgZVeLHEInh6TpwZL8",,
+    "client_secret":"MFITDWbKbGcWIse1wP3h247LLIGwSl032o4ebP18k-x2AeCgZVeLHEInh6TpwZL8",
     "Callback_URL":"https://865840cb0899.ngrok.io",
     "YOUR_USER_BOUND_VALUE":"",
     "API":{
