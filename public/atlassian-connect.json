@@ -2,7 +2,7 @@
     "name": "Planning Poker",
     "description": "Atlassian Connect app",
     "key": "com.example.myplanningapp",
-    "baseUrl": "https://atlas-planning-poker.herokuapp.com",
+    "baseUrl": "https://planningpokrapp.herokuapp.com",
     "vendor": {
         "name": "Example, Inc.",
         "url": "http://example.com"

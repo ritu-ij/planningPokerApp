@@ -1,7 +1,7 @@
 const data = {
-    "client_id": "BRphak8h3YqAhP67Jxs0XSnmzrqfYlQn",
-    "client_secret":"MFITDWbKbGcWIse1wP3h247LLIGwSl032o4ebP18k-x2AeCgZVeLHEInh6TpwZL8",
-    "Callback_URL":"https://atlas-planning-poker.herokuapp.com",
+    "client_id": "LhAfYpYZrfv4p0oCOjhIwHriPYFLaQQ4",
+    "client_secret":"MFITDWbKbGcWIse1wP3h247LLIGwSl032o4ebP18k-ZSDpbLuZsOzMffOm_WHO5mVJh_WWQ8t1y1WCJK0o4b3ggLvg40ktRmnQQMuQafiO",
+    "Callback_URL":"https://planningpokrapp.herokuapp.com",
     "YOUR_USER_BOUND_VALUE":"",
     "API":{
         getAuth:'https://auth.atlassian.com/oauth/token'
